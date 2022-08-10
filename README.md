@@ -1,13 +1,18 @@
-# bikesharing
+#  NYC Citibike Bikesharing
+
+Tableau link: https://public.tableau.com/app/profile/nicole.olbrysh/viz/Bikeshare_16600083546410/Story1?publish=yes
 
 An analysis of NYC CitiBike bikesharing data from August, 2019, with Tableau
-** Overview
+
+## Overview
+
 The framework for this project was to analyze bikeshare data from CitiBike in New York City for presentation to investors looking to begin a bikeshare program in Des Moines, Iowa. While Des Moines is a long way away from the hustle and bustle of NYC, this analysis might help answer a few key questions:
 - Who uses bikeshare programs?
 - What area of a city sees the most bikeshare usage?
 - What time of day are bikes used the most and the least?
 - How much are the bikes used and by whom?
-** Results
+## Results
+
 While the demographics of Des Moines may be different from the makeup of the citizenry of NYC, a cursory look at the makeup of CitiBike riders may shine light on who bikeshare might appeal to, regardless of locale.
 
 
@@ -19,4 +24,4 @@ While the demographics of Des Moines may be different from the makeup of the cit
 ![2022-08-10 (9)](https://user-images.githubusercontent.com/103701561/184031877-8e6b2e0f-0387-4fe3-8592-04512dd4b04e.png)
 
 
-Tableau link: https://public.tableau.com/app/profile/nicole.olbrysh/viz/Bikeshare_16600083546410/Story1?publish=yes
+
